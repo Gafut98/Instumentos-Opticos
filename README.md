@@ -1,2 +1,2 @@
-# Instumentos-Opticos
+# Instrumentos-Opticos
 Proyecto
